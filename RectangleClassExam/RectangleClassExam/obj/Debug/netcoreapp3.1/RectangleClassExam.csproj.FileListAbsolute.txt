@@ -1,0 +1,13 @@
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\bin\Debug\netcoreapp3.1\RectangleClassExam.exe
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\bin\Debug\netcoreapp3.1\RectangleClassExam.deps.json
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\bin\Debug\netcoreapp3.1\RectangleClassExam.runtimeconfig.json
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\bin\Debug\netcoreapp3.1\RectangleClassExam.runtimeconfig.dev.json
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\bin\Debug\netcoreapp3.1\RectangleClassExam.dll
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\bin\Debug\netcoreapp3.1\RectangleClassExam.pdb
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.csprojAssemblyReference.cache
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.csproj.CoreCompileInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.AssemblyInfoInputs.cache
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.AssemblyInfo.cs
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.dll
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.pdb
+C:\Users\emma\Documents\Visual Studio 2019\RectangleClassExam\RectangleClassExam\obj\Debug\netcoreapp3.1\RectangleClassExam.genruntimeconfig.cache
